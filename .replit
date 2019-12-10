@@ -1,0 +1,2 @@
+language = "python3"
+run = "cd Console_Games; python bagels.py;"
